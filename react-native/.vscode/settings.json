@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "db/migrate": true,
+    "**/log": true,
+    "**/vcr_cassettes": true,
+    "**/tmp": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.serverless": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "**/node_modules": true,
+    "**/ios": true,
+    "**/android": true
+  }
+}
