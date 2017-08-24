@@ -12,6 +12,7 @@
     "**/CVS": true,
     "**/node_modules": true,
     "**/ios": true,
-    "**/android": true
+    "**/android": true,
+    "**/spec": true
   }
 }
